@@ -1,0 +1,31 @@
+Details.Organization;Details.Organization ID;Details.Employee ID;Details.Employee Name;Role;Skill ID;Skill ;SubSkill;Rating
+Xebia;1;4201;Ramesh;Senior Developer;1;Java;MultiThreading;Beginner
+Xebia;1;4201;Ramesh;Senior Developer;1;Java;Generics;Expert
+Xebia;1;4202;Suresh;Developer;2;C;Pointers;Subject Matter Expert
+Xebia;1;4202;Suresh;Developer;2;C;File Handling;Beginner
+Xebia;1;4203;Ramesh;Lead;3;C++;STL;Hands-on
+Xebia;1;4203;Ramesh;Lead;3;C++;OOPs;Expert
+Xebia;1;4204;Kamlesh;Developer;4;Python ;OOPs;Expert
+Xebia;1;4204;Kamlesh;Developer;4;Python ;OpenCV;Hands-on
+Xebia;1;4205;Mahesh;Architect;5;NodeJs;RESTAPI;Beginner
+Xebia;1;4205;Mahesh;Architect;5;NodeJs;Package Management;Subject Matter Expert
+Microsoft;2;1233;Aryan;Developer;6;HTML;URL Encoding;Expert
+Microsoft;2;1234;Aryan;Developer;6;HTML;Event Attributes;Hands-on
+Microsoft;2;1235;Rohan;Architect;1;CSS;Box Models;Beginner
+Microsoft;2;1236;Rohan ;Architect;1;CSS;Display Positioning;Expert
+Microsoft;2;1237;Khemesh;Lead;8;React js;Git;Hands-on
+Microsoft;2;1238;Khemesh;Lead;8;React js;Node+npm;Subject Matter Expert
+Google;3;3456;Shyam;Senior Developer;9;NodeJs;RESTAPI;Subject Matter Expert
+Google;3;3457;Shyam;Senior Developer;9;NodeJs;Package Management;Expert
+Google;3;3458;Rakesh;Architect;4;React js;Git;Beginner
+Google;3;3459;Rakesh;Architect;4;React js;Node+npm;Expert
+Google;3;3500;Rohit;Developer;1;Java;MultiThreading;Subject Matter Expert
+Google;3;3501;Rohit;Developer;1;Java;Generics;Expert
+Amazon;4;9000;Kohli;Lead;5;Python ;OOPs;Beginner
+Amazon;4;9001;Kohli;Lead;5;Python ;Generics;Expert
+Amazon;4;9002;Rahane;Architect;7;C++;Pointers;Hands-on
+Amazon;4;9003;Rahane;Architect;7;C++;Virtual Function;Expert
+Amazon;4;9004;Jadeja;Developer;9;C;Pointers;Subject Matter Expert
+Amazon;4;9005;Jadeja;Developer;9;C;File Handling;Subject Matter Expert
+Amazon;4;9006;Rakesh;Senior Developer;1;Java;Networking;Beginner
+Amazon;4;9007;Rakesh;Senior Developer;1;Java;JDBC;Expert

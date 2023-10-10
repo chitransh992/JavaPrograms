@@ -1,0 +1,6 @@
+Organization Name,Employee ID,Employee Name,Role Of the Employee,Parent Skill,SubSkill,Rating
+Xebia,X-1201,Ramesh,Developer,Java,"Generics, Multithreding",Begineer
+Xebia,X-1202,Suresh,Senior Developer,Java,Generics,Hands on
+Microsoft,X-1203,Yash,Lead,Python,OpenCV,Expert
+Amazon,X-1204,Yaman,Architect,C++,Method Overriding,Subject Matter Expert
+Google,X1205,Sudhir,Developer,C,Pointers,Hands on
